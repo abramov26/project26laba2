@@ -25,7 +25,7 @@ public class Info implements ActionListener {
 		Perviy.setBounds(30, 60, 715, 30);
 		JLabel Vtoroy = new JLabel("Второй: Фаттахов Денис Валерикович, № зачётки 19130626. Дата работы №3: 22.04.2021.");
 		Vtoroy.setBounds(30, 90, 715, 30);
-		JLabel Tretiy = new JLabel("Третий: Хуцану Данила Васильевич, № зачётки 19130645");
+		JLabel Tretiy = new JLabel("Третий: Хуцану Данила Васильевич, № зачётки 19130645. Дата работы №3: 22.04.2021.");
 		Tretiy.setBounds(30, 120, 715, 30);
 		JLabel fileImportLabel = new JLabel(importedText);
 		fileImportLabel.setBounds(30, 150, 715, 30);
