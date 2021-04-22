@@ -12,7 +12,7 @@ public class Subversion {
 
 	public Subversion() {
 
-		main_GUI.setTitle("Using subversion for developers"); //создание заголовка графического окна
+		main_GUI.setTitle("Using git for developers"); //создание заголовка графического окна
 		main_GUI.setBounds(500, 400, 550, 575);
 		main_GUI.setResizable(false); // фиксированный размер окна
 
@@ -24,7 +24,7 @@ public class Subversion {
 		spec_info.setBounds(180, 0, 200, 30);
 		main_panel.add(spec_info);
 
-		JLabel laba_info = new JLabel("Лабораторная работа №5"); // Отображение текста или изображения
+		JLabel laba_info = new JLabel("Лабораторная работа №3"); // Отображение текста или изображения
 		laba_info.setBounds(180, 20, 200, 30);
 		main_panel.add(laba_info);
 
