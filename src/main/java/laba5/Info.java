@@ -21,7 +21,7 @@ public class Info implements ActionListener {
 		// Добавляются члены группы
 		JLabel moder = new JLabel("Модератор: Абрамов Владислав Владимирович, № зачётки 19130172. Дата работы №3: 22.04.2021.");
 		moder.setBounds(30, 30, 715, 30);
-		JLabel Perviy = new JLabel("Первый: Деменев Константин Евгеньевич, № зачётки 19130622");
+		JLabel Perviy = new JLabel("Первый: Деменев Константин Евгеньевич, № зачётки 19130622. Дата работы №3: 22.04.2021.");
 		Perviy.setBounds(30, 60, 715, 30);
 		JLabel Vtoroy = new JLabel("Второй: Фаттахов Денис Валерикович, № зачётки 19130626");
 		Vtoroy.setBounds(30, 90, 715, 30);
